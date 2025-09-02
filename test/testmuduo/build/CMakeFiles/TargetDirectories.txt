@@ -1,0 +1,3 @@
+/home/ubuntun/桌面/testmuduo/build/CMakeFiles/server.dir
+/home/ubuntun/桌面/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/ubuntun/桌面/testmuduo/build/CMakeFiles/rebuild_cache.dir
